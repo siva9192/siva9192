@@ -1,5 +1,5 @@
 ### 💫 About Me:
-i'm currently working on Databrick
+I'm Siva kumar and have experienced working in Data Engineer and am Passionate about data management and mining techniques, employing a statistical approach to identify and solve problems using various platforms and tools. Skilled in data reporting, visualization, and extracting meaningful insights. Proven track record in leading quality teams and making significant contributions to an organization's Quality Assurance domain.
 
 
 #### 📬 Find me at
